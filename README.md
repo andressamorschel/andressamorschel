@@ -22,7 +22,8 @@ Linguagens que tenho experiência:
 <h3>⚙️ &nbsp;Back-end e Banco de Dados:</h3>
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-
+![Java](https://img.shields.io/badge/-Java-black)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot)
 
 
 
@@ -30,7 +31,7 @@ Linguagens que tenho experiência:
 
 ---
 
-## Linguagens Mais Usadas
+## Tecnologias Mais Usadas
 
 <p align="center">
     
