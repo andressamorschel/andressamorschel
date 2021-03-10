@@ -24,6 +24,7 @@ Linguagens que tenho experiência:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![Java](https://img.shields.io/badge/-Java-black)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot)
+![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
 
 
 
