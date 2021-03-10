@@ -2,7 +2,7 @@
 
 
 ### Olá! Seja bem vindo(a) ao meu GitHub, é aqui onde coloco meus principais projetos!
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndressaMorschel_icons=true&theme=tokyonight)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=andressamorschel_icons=true&theme=tokyonight)
 <details>
 <summary> <b> Um pouco sobre mim</b> <i>(Clique aqui para expandir)</i> </summary>
 
