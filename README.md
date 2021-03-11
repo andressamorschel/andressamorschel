@@ -22,8 +22,8 @@ Linguagens que tenho experiência:
 <h3>⚙️ &nbsp;Back-end e Banco de Dados:</h3>
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
 ![Spring Boot](https://img.shields.io/badge/-spring-333333?style=flat&logo=spring)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
 
 
