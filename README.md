@@ -25,6 +25,7 @@ Linguagens que tenho experiência:
 ![Java](https://img.shields.io/badge/-Java-black)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
+![Java](https://w7.pngwing.com/pngs/932/888/png-transparent-java-and-databases-computer-icons-programming-language-computer-software-coffee-flat-logo-computer-programming-programming-language.png)
 
 ## Tecnologias Mais Usadas
 
