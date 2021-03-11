@@ -26,6 +26,12 @@ Linguagens que tenho experiência:
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=SpringBoot)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
 
+## Tecnologias Mais Usadas
+
+<p align="center">
+    
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=andressamorschel&layout=compact&theme=dracula)
+
 [![Andressa Morschel GitHub Stats](https://github-readme-stats.vercel.app/api?username=andressamorschel)](https://github.com/anuraghazra/github-readme-stats)
 
 
