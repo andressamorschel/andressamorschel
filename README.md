@@ -33,12 +33,6 @@ Linguagens que tenho experiência:
 
 ---
 
-## Tecnologias Mais Usadas
-
-<p align="center">
-    
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=andressamorschel&layout=compact&theme=dracula)
-
 </p>
 
 ---
