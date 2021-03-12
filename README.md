@@ -1,4 +1,4 @@
-## :man_technologist: Andressa Morschel Urbano
+## :woman_technologist: Andressa Morschel Urbano
 
 
 ### Olá! Seja bem vindo(a) ao meu GitHub, é aqui onde coloco meus principais projetos!
