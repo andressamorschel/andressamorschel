@@ -8,7 +8,7 @@
 ---
 
 ### 📖 Sobre mim
-Tenho 18 anos e estou cursando Engenharia de software. Atualmente estou me aprimorando nas linguagens Java, HTML, CSS e JavaScript. Pretendo seguir carreira como desenvolvedora full stack.
+Tenho 18 anos e estou cursando Engenharia de software. Atualmente estou me aprimorando nas linguagens Ruby e JavaScript. Pretendo seguir carreira como desenvolvedora full stack.
 	
 
 <h2> 🛠 &nbsp;Estou aprendendo:</h2>
