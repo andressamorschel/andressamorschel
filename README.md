@@ -4,13 +4,13 @@
 ### Olá! Seja bem vindo(a) ao meu GitHub, é aqui onde coloco meus principais projetos!
 
  <p>&nbsp;  I am 18 years old and a software engineering student. Studying and working with JavaScript and Ruby</p>
-
+<div>
 <div style="text-align:center">
   <a href="https://github.com/andressamorschel">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andressamorschel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andressamorschel&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
-
+</div>
 
 
 <div style="display: inline_block"><br>
