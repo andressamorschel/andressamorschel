@@ -8,33 +8,28 @@
 ---
 
 ### 📖 Sobre mim
-Tenho 18 anos e estou cursando Engenharia de software. Atualmente estou me aprimorando nas linguagens Ruby e JavaScript. Pretendo seguir carreira como desenvolvedora full stack.
+ <p>&nbsp;  I am 18 years old and a software engineering student. Studying and working with JavaScript and Ruby</p>
+
+ <div>
+	 
+  <a href="https://github.com/andressamorschel">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andressamorschel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressamorschel&layout=compact&langs_count=16&theme=dracula"/>
+<div>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="java" height="34" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
+	<br>
+	 <a href = "mailto: andressamorschel@gmail.com" title="E-mail"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/andressa-morschel-693b211b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
 	
-
-<h2> 🛠 &nbsp;Estou aprendendo:</h2>
-<h3>💻 &nbsp;Front-end:</h3>
-
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-
-<h3>⚙️ &nbsp;Back-end e Banco de Dados:</h3>
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![Spring Boot](https://img.shields.io/badge/-spring-333333?style=flat&logo=spring)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
-![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
-
-
-## Tecnologias Mais Usadas
-
-<p align="center">
-    
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=andressamorschel&layout=compact&theme=dracula)
-
-[![Andressa Morschel GitHub Stats](https://github-readme-stats.vercel.app/api?username=andressamorschel)](https://github.com/anuraghazra/github-readme-stats)
-
-
 </details>
 
 ---
