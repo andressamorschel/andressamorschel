@@ -2,12 +2,7 @@
 
 
 ### Olá! Seja bem vindo(a) ao meu GitHub, é aqui onde coloco meus principais projetos!
-<details>
-<summary> <b> Um pouco sobre mim</b> <i>(Clique aqui para expandir)</i> </summary>
 
----
-
-### 📖 Sobre mim
  <p>&nbsp;  I am 18 years old and a software engineering student. Studying and working with JavaScript and Ruby</p>
 
  <div>
