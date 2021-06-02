@@ -1,7 +1,7 @@
 ## :woman_technologist: Andressa Morschel Urbano
 
 
-### Olá! Seja bem vindo(a) ao meu GitHub, é aqui onde coloco meus principais projetos!
+### Olá! Seja bem vindo(a) ao meu GitHub, é aqui onde coloco meus principais projetos!lll
 
  <p>&nbsp;  I am 18 years old and a software engineering student. Studying and working with JavaScript and Ruby</p>
 
