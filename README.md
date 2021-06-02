@@ -6,7 +6,7 @@
  <p>&nbsp;  I am 18 years old and a software engineering student. Studying and working with JavaScript and Ruby</p>
 
   
-<img height="176em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andressamorschel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="179em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andressamorschel&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andressamorschel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andressamorschel&layout=compact&langs_count=8&theme=tokyonight"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
