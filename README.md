@@ -6,10 +6,12 @@
  <p>&nbsp;  I am 18 years old and a software engineering student. Studying and working with JavaScript and Ruby</p>
 
  <div>
-	 
-  <a href="https://github.com/andressamorschel">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andressamorschel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width: "500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andressamorschel&layout=compact&langs_count=16&theme=dracula"/>
+	<div style="text-align:center">
+  	<a href="https://github.com/ErnaneJ">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andressamorschel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andressamorschel&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>	 
+
 <div>
 
 <div style="display: inline_block"><br>
