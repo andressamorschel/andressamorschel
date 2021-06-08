@@ -13,8 +13,10 @@
   <img align="center" alt="HTML" title="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" title="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ruby" title="Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
+ <img align="center" alt="svelte" title="Svelte" height="34" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShunseUFTrtQBlcHnzWB7zZLHbQe1HlDn3ad8zBuTe2DDWPjqR210sXUmoJh6iL00eGpU&usqp=CAU">
   <img align="center" alt="nodejs" title="NodeJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="java" title="Java" height="34" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+
 </div>
 	<br>
 
