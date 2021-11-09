@@ -3,7 +3,7 @@
 
 ### Hello! Welcome to my GitHub, this is where I put my main projects!
 
- <p>&nbsp;I am 18 years old and a software engineering student. I currently study and work with Spring Framework and Angular, besides being developing myself in Spring Rest, PostgreSQL, MongoDB and Java Struts/Servlets </p>
+ <p>&nbsp; I am 18 years old and a software engineering student. I am currently studying and working with the Spring ecosystem and Angular, as well as specializing in Spring Rest, Spring Security, PostgreSQL, MongoDB and Java Struts2 </p>
 
 <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andressamorschel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andressamorschel&layout=compact&langs_count=8&theme=tokyonight"/>
 
