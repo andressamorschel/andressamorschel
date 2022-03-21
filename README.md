@@ -3,7 +3,7 @@
 
 ### Hello! Welcome to my GitHub, this is where I put my main projects!
 
- <p>&nbsp; I am 19 years old and a software engineering student. I am currently studying and working with the Spring ecosystem, as well as specializing in Spring Rest, Spring Security, SQL and NOSQL database </p>
+ <p>&nbsp; I am 19 years old and I am a software engineering student. I currently work directly with hexagonal architecture, microservices and the Spring ecosystem, in addition to specializing in java, SQL and NOSQL databasese </p>
 
 <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andressamorschel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/><img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andressamorschel&layout=compact&langs_count=8&theme=tokyonight"/>
 	<br>
