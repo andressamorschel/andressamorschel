@@ -13,7 +13,7 @@
 </p>
 
 ### Hi! Welcome to my GitHub, this is where I put my main study projects!
-I am 19 years old and I am a software engineering student. I currently work on Java, Spring, Amazon SQS, API Gateway, MySQL, MongoDB and microservices. I have just over 1 year of experience with fullstack development and I am studying the Golang and Java language during my free time.
+I'm 19 years old,currently working as a mid-level software engineer, using: Java, Spring, SNS, SQS, API Gateway, MySQL, MongoDB and microservices. I have just over 2 years of experience with bacend development and I'm studying the Golang language in my spare time.
 <div align="center">
     <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andressamorschel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andressamorschel&layout=compact&langs_count=8&theme=tokyonight"/>
