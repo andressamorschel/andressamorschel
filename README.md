@@ -11,7 +11,7 @@
 </p>
 
 ### Hi! Welcome to my GitHub, this is where I put my main study projects!
-I'm 20 years old, currently working as a mid-level software engineer, using: Java, Spring, AWS, API Gateway, MySQL, MongoDB and microservices. I have just over 2 years of experience with backend development and I'm studying the Golang language in my spare time.
+I'm 20 years old, currently working as a mid-level software engineer, using: Java, Spring, AWS, API Gateway, MySQL, MongoDB and microservices. I have just over 2 years of experience with backend development.
 <div align="center">
     <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andressamorschel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andressamorschel&layout=compact&langs_count=8&theme=tokyonight"/>
