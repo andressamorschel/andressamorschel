@@ -12,10 +12,10 @@
 ### Hi! Welcome to my GitHub, this is where I put my main study projects!
 I'm 21 years old, currently working as a mid-level software engineer, using: Java, Spring, AWS, API Gateway, MySQL, MongoDB and microservices. I have just over 3 years of experience with backend development.
 
-<div align="center">
-    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andressamorschel&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=andressamorschel&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+<p align="center">
+   <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=andressamorschel&count_private=true&include_all_commits=true&show_icons=true&theme=cobalt&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
+  <img width="44%" src="http://github-readme-streak-stats.herokuapp.com?user=andressamorschel&theme=cobalt&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&sideNums=FFF"/>
+</p>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/andressa-morschel-693b211b5/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
