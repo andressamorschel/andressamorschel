@@ -10,7 +10,7 @@
 </p>
 
 ### Hi! Welcome to my GitHub, this is where I put my main study projects!
-I'm 22 years old, currently working as a mid-level software engineer, using: Java, Spring, AWS, API Gateway, MySQL, MongoDB and microservices. I have just over 4 years of experience with backend development.
+I'm 22 years old, currently working as a senior software engineer, using: Java, Spring, AWS, API Gateway, MySQL, MongoDB and microservices. I have just over 4 years of experience with backend development.
 
 <p align="center">
    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs?username=andressamorschel&count_private=true&include_all_commits=true&show_icons=true&theme=cobalt&icon_color=DAD3AF&layout=compact&hide_border=true&border_radius=15&bg_color=0d1117"/>
