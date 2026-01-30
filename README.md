@@ -1,8 +1,23 @@
+<p align="center">
+<strong>Senior Software Engineer</strong><br/>
+Backend • System Design • Cloud Architectures
+</p>
+
+---
+
 ## 👩‍💻 Andressa Morschel Urbano
 
-Senior Software Engineer with strong experience in **backend development**, **system design**, and **cloud-based architectures**.
-Focused on building **scalable, maintainable, and reliable systems**, with emphasis on clean architecture and engineering best practices.
+> _Designing systems that are scalable today and sustainable tomorrow._
 
-### 🔗 Contact
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-262671?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andressamorschel/)
-[![Email Badge](https://img.shields.io/badge/Email-262671?style=flat-square&logo=gmail&logoColor=white)](mailto:andressamorschel@gmail.com)
+Senior Software Engineer focused on **backend engineering**, **system design**, and **cloud-native architectures**.
+I work on evolving systems with emphasis on **scalability**, **maintainability**, and **engineering clarity**.
+
+---
+
+### ⚙️ Technical Focus
+```text
+• Backend systems & APIs
+• Distributed systems
+• Cloud infrastructure (AWS)
+• Refactoring & technical debt
+```
