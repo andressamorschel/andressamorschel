@@ -1,5 +1,4 @@
 ## 👩‍💻 Andressa Morschel Urbano
-### Senior Software Engineer
 
 Senior Software Engineer with strong experience in **backend development**, **system design**, and **cloud-based architectures**.
 Focused on building **scalable, maintainable, and reliable systems**, with emphasis on clean architecture and engineering best practices.
